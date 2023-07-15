@@ -5,6 +5,6 @@
 - <img src="https://img.shields.io/badge/-8D1F89?style=flat&logo=Adobe XD&logoColor=FFFFFF"/> 
 - <a href="https://www.figma.new"><img src="https://img.shields.io/badge/-000000?style=flat&logo=figma&logoColor=FFFFFF"/>
 
-- <a href="https://blog.naver.com/lkosoqpmmmm"><img src="https://img.shields.io/badge/blog-2D8C3C?style=flat&logo=bitdefender&logoColor=white&link=https://blog.naver.com/lkosoqpmmmm"/></a>&nbsp
+- <a href="https://blog.naver.com/lkosoqpmmmm"><img src="https://img.shields.io/badge/blog-2D8C3C?style=flat&logo=bitdefender&logoColor=white&link=https://blog.naver.com/lkosoqpmmmm"/>
 
 ![fav](./p.png)
