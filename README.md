@@ -7,4 +7,5 @@
 
 - <a href="https://blog.naver.com/lkosoqpmmmm"><img src="https://img.shields.io/badge/blog-2D8C3C?style=flat&logo=bitdefender&logoColor=white&link=https://blog.naver.com/lkosoqpmmmm"/>
 
-![fav](./p.png) ![fav](./pp.jpg)
+
+![fav](./p.png)
