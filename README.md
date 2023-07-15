@@ -5,3 +5,5 @@
 <a href="https://www.figma.new"><img src="https://img.shields.io/badge/-000000?style=flat&logo=figma&logoColor=FFFFFF"/>
 </span>
 <a href="https://blog.naver.com/lkosoqpmmmm"><img src="https://img.shields.io/badge/blog-2D8C3C?style=flat&logo=bitdefender&logoColor=white&link=https://blog.naver.com/lkosoqpmmmm"/></a>&nbsp
+
+![프로필이미지](./p.jpg)
